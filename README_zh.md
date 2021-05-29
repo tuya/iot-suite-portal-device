@@ -3,7 +3,7 @@
 Tuya Iot Suite Portal -- 设备管理子应用
 ===
 
-本应用为 Tuya Iot 研发套件 Web 管理控制台子应用
+本应用为 Tuya Iot Suite 开发套件的 Web 管理控制台子应用
 负责设备相关管理
 
 [主应用请访问这里](https://github.com/tuya/iot-suite-portal)
@@ -18,7 +18,7 @@ iot-suite-portal-device
 
 > 入口文件为src/index.tsx
 
-完成目录结构
+完整目录结构
 ```
 iot-suite-portal-device
 ├── README.md
