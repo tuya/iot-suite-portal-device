@@ -1,7 +1,9 @@
-<center><p align="center"><img src="https://images.tuyacn.com/rms-static/dc225080-25a5-11eb-8913-b53cc9e03c9c-1605267985800.png?tyName=tuya.png" width="36%" height="36%" /></p></center>
+<center><p align="center"><img src="./tuya_logo.png" width="28%" height="28%" /></p></center>
 
 Tuya Iot Suite Portal -- 设备管理子应用
 ===
+
+[English](README.md) | [中文版](README_zh.md)
 
 本应用为 Tuya Iot Suite 开发套件的 Web 管理控制台子应用
 负责设备相关管理
